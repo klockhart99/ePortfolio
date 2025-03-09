@@ -1,3 +1,5 @@
 ## Welcome
 
-### <u>Table of Content</u>
+This ePortfolio is now working!
+
+More details coming soon!
