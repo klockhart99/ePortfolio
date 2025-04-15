@@ -8,6 +8,7 @@ Hello, I am **Kenneth Lockhart** and welcome to my ePortfolio. The purpose of th
 
 &nbsp;[Professional Self-Assessment](#professional-self-assessment "Professional Self-Assessment")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Preparing For the Future](#preparing-for-the-future "Preparing For the Future")<br/>
+&nbsp;[Informal Code Review](#informal-code-review "Informal Code Review")<br/>
 &nbsp;[Software Design and Engineering](#software-design-and-engineering "Software Design and Engineering")<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms-and-data-structure "Algorithms and Data Structure")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
@@ -15,6 +16,8 @@ Hello, I am **Kenneth Lockhart** and welcome to my ePortfolio. The purpose of th
 ## Professional Self-Assessment
 
 ## Preparing For the Future
+
+## Informal Code Review
 
 ## Software Design and Engineering
 
