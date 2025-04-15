@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/bottomEvents"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Upcoming Events" />
+        <item
+            android:id="@+id/bottomCalander"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="Calander" />
+        <item
+            android:id="@+id/bottomDailyPlanner"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="Daily Planner" />
+    </group>
+</menu>

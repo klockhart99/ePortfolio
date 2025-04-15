@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/bottomEvents"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Upcoming Events" />
+        <item
+            android:id="@+id/bottomCalander"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="Calander" />
+    </group>
+</menu>
