@@ -1,0 +1,1 @@
+# Event Planner / Daily Planner App - Android Mobile Application<br/>CS 360 Mobile Architecture and Programming<br/>Software Design and Engineering Category<br/>Algorithms and Data Structure Category
