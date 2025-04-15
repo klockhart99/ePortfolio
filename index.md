@@ -4,16 +4,14 @@ This ePortfolio is now working!
 
 More details coming soon!
 
-# Table of Contents
+## Table of Contents
 
-# Self-Assessment
+## Self-Assessment
 
-## Considerations
+## Preparing For the Future
 
-## Preparing For The Future
+## Software Design and Engineering
 
-# Software Design and Engineering
+## Algorithms and Data Structure
 
-# Algorithms and Data Structure
-
-# Datebases
+## Databases
