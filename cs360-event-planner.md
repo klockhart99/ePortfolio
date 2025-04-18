@@ -4,7 +4,52 @@
 
 ### Before Enhancement
 
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Login Screen.png" width="600px" title="Event Planner Login Screen"/>
+    <p><em>Figure 1 - Login Screen</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Upcoming Events.png" width="600px" title="Event Planner Upcoming Events Screen" />
+    <p><em>Figure 2 - Upcoming Events</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Calandar View.png" width="600px" title="Event Planner Calandar View" />
+    <p><em>Figure 3 - Calandar View</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Event Screen.png" width="600px" title="Event Planner Event Add Screen" />
+    <p><em>Figure 4 - Event Add Screen</em></p>
+</div>
+
 ### After Enhancement
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Daily Planner.png" width="600px" title="Event Planner Daily Planner" />
+    <p><em>Figure 5 - Daily Planner View</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Code 1.png" width="600px" title="Event Planner Example 1" />
+    <p><em>Figure 6 - Algorithm Code Example 1</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Code 2.png" width="600px" title="Event Planner Example 2" />
+    <p><em>Figure 7 - Algorithm Code Example 2</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Code 3.png" width="600px" title="Event Planner Example 3" />
+    <p><em>Figure 8 - Algorithm Code Example 3</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 360/Code 4.png" width="600px" title="Event Planner Example 4" />
+    <p><em>Figure 9 - Algorithm Code Example 4</em></p>
+</div>
 
 ## Narrative
 ### Purpose
@@ -35,6 +80,3 @@ While this is still the same for this enhancement, I saved talking about the alg
 One more part of the process of was adding the ability to display two events, which was an idea from the beginning and was rather simple. By adding a data structure in the form of two array list working as a lockout list by adding the hours consumed by the block and by multiplying the floats by 100, I was ability to make it place event very close to each other in a single list before moving to the second list. Ultimately, I know that the algorithm can still be enhanced and optimized as I did not add a feature to allow overlapping lists or more than two lists. However, given the limited details on this topic on the internet I was rather impressed with the solution I found. The biggest improvement I can see to this algorithm is in the multievent view as it takes time to perform lockouts while minor, I could see having a lot of events slowing down the process. Ideally, I would like to reduce the amount of nested loops to help produce a better algorithm but that felt outside the scope of this enhancement and would take far longer to design from scratch then this project has available. 
 
 Overall, in the end I think the improvements came out very well given the limited time spent on it. I believe it really shows how far I have come in mobile development since December 2024 and shows how I can overcome challenges to design algorithm and data structures to solve problems. Additionally, it shows that I am always improving and thinking critically about my work.
-
-
-
