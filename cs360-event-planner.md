@@ -5,29 +5,29 @@
 ### Before Enhancement
 
 <div style="text-align: center;">
-    <img src="assets/imgs/CS 360/Login Screen.png" width="600px" title="Event Planner Login Screen"/>
+    <img src="assets/imgs/CS 360/Login Screen.png" width="300px" title="Event Planner Login Screen"/>
     <p><em>Figure 1 - Login Screen</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="assets/imgs/CS 360/Upcoming Events.png" width="600px" title="Event Planner Upcoming Events Screen" />
+    <img src="assets/imgs/CS 360/Upcoming Events.png" width="300px" title="Event Planner Upcoming Events Screen" />
     <p><em>Figure 2 - Upcoming Events</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="assets/imgs/CS 360/Calandar View.png" width="600px" title="Event Planner Calandar View" />
+    <img src="assets/imgs/CS 360/Calandar View.png" width="300px" title="Event Planner Calandar View" />
     <p><em>Figure 3 - Calandar View</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="assets/imgs/CS 360/Event Screen.png" width="600px" title="Event Planner Event Add Screen" />
+    <img src="assets/imgs/CS 360/Event Screen.png" width="300px" title="Event Planner Event Add Screen" />
     <p><em>Figure 4 - Event Add Screen</em></p>
 </div>
 
 ### After Enhancement
 
 <div style="text-align: center;">
-    <img src="assets/imgs/CS 360/Daily Planner.png" width="600px" title="Event Planner Daily Planner" />
+    <img src="assets/imgs/CS 360/Daily Planner.png" width="300px" title="Event Planner Daily Planner" />
     <p><em>Figure 5 - Daily Planner View</em></p>
 </div>
 
