@@ -1,10 +1,39 @@
 ## Salvare Search for Rescue Web Application<br/>CS 340 Client/Server Development<br/>Databases Category
 
 ## Overview
+In order to understand the effects of this enhancement it is important to look at the before and after of the project. By doing so we can make comparisons between the two to determine if the enhancement achieves its goals or if it still has more work to be done. In this project I focused on the main area of improvement, that being the Database part of the application specifically in the platform it deployed and its security of its installation. The goal of the improvement was to improve the application by improving access to the database as well as providing a step-by-step process for setting up on multiple platforms securely. 
 
 ### Before Enhancement
+Let’s begin by looking at what the application offers before the enhancement. The artifact in question was design for CS 340 and is a webpage that displays data from a MongoDB database. It allowed the user to filter data based on a set of options and then depend on the option selected showing the location of the animal. The goal of the project was to make it easier to find animals that were stored in a database, and this was done by a webpage created with Jupyter Dash that interfaced via a CRUD helper class created in Python.
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 340/CS 340 Overview Picture 1.png" width="300px" title="Event Planner Login Screen"/>
+    <p><em>Figure 1 - Salvare Search for Resuce Web Overview 1</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 340/CS 340 Overview Picture 2.png" width="300px" title="Event Planner Login Screen"/>
+    <p><em>Figure 2 - Salvare Search for Resuce Web Overview 2</em></p>
+</div>
+CRUD stands for the four main functions needed to handle database operations, Create (C), Read (R), Update (U), and Delete (D). While the webpage only supports reading operations it may be important to later enable editing or creating new entries in the future if the application requires it. As such it is good to have the file prepared in case such a function is later needed.
+Finally, both the CRUD class and the Jupyter notebook were setup to function with MongoDB separately and specifically with a MongoDB on Linux. This while practical for many might limit the accessibility of this project to just users of Linux.
 
 ### After Enhancement
+In order to improve the accessibly of the application, I had to find a process to install MongoDB and Jupyter on a Windows machine. As such I began to focus on the key aspects of the database that required setup documenting these steps into the install.md file saved with the project.
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 340/CS 340 Enhancement 1.png" width="300px" title="Event Planner Login Screen"/>
+    <p><em>Figure 3 - New File Structure</em></p>
+</div>
+
+Ultimately the process of porting the files to Windows was trivial and by following the step outline in the install.md it is now possible for anyone to prepare the database and use the webpage. However, the issue is that it is possible for anyone to do this no matter what machine or OS is used. This raises the question about security which is important when discussing databases. 
+As part of the installation process, I noticed a few key points discussed during the code review of this artifact that could be a security flaw, namely the fact that the project uses hardcode values for usernames and password meaning that the file gets exposed to that account would be compromised. As a result, it was important during the installation process to ensure that this account only has permission needed to allow the webpage to function and definitely should not have written permissions to the database.
+
+<div style="text-align: center;">
+    <img src="assets/imgs/CS 340/CS 340 Enhancement 2.png" width="300px" title="Event Planner Login Screen"/>
+    <p><em>Figure 4 - Security Focused</em></p>
+</div>
+
+Thus, the only enhancement to this artifact is namely the install process and a small update to Dash as the version used previously was outdated and was easy to replace. It is important though to mention that while this project does not contain any sensitive data and did not warrant extra security, it does show how to create a functional webpage to read data from MongoDB. As such it should always show best practices as it sets a good example which was the purpose of this project.
 
 ## Narrative
 ### Purpose
