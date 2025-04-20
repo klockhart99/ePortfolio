@@ -28,7 +28,6 @@ ___
 
 ## Code Review
 <div style="text-align: center;">
-  <p><em>Click below for the code review and it's transcipts</em></p>
   <p><a href="https://klockhart99.github.io/ePortfolio/code-review" title="ePortfolio Code Review">
             <img 
               alt="Static Badge" 
