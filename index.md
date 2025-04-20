@@ -25,10 +25,12 @@ Hello, I am **Kenneth Lockhart** and welcome to my ePortfolio. The purpose of th
 
 ### Preparing For the Future
 
+<div style="text-align: center;">
 <p><a href="https://klockhart99.github.io/ePortfolio/outcomes" title="ePortfolio Outcomes">
     <img 
         alt="Static Badge" 
         src="https://img.shields.io/badge/Link-Outcomes-AA11FF?style=flat&link=https%3A%2F%2Fklockhart99.github.io%2FePortfolio%2Foutcomes"></a></p>
+</div>
         
 ## Informal Code Review
 
