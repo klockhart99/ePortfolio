@@ -7,16 +7,29 @@ Hello, I am **Kenneth Lockhart** and welcome to my ePortfolio. The purpose of th
 ## Table of Contents
 
 &nbsp;[Professional Self-Assessment](#professional-self-assessment "Professional Self-Assessment")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio Considerations](#portfolio-considerations "Portfolio Considerations")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Preparing For the Future](#preparing-for-the-future "Preparing For the Future")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Outcomes](https://klockhart99.github.io/ePortfolio/outcomes)<br/>
 &nbsp;[Informal Code Review](#informal-code-review "Informal Code Review")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code Review Transcipt](https://klockhart99.github.io/ePortfolio/code-review)<br/>
 &nbsp;[Software Design and Engineering](#software-design-and-engineering "Software Design and Engineering")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Artifact - CS 360 Event Planner](https://klockhart99.github.io/ePortfolio/cs360-event-planner)<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms-and-data-structure "Algorithms and Data Structure")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Artifact - CS 360 Event Planner](https://klockhart99.github.io/ePortfolio/cs360-event-planner)<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Artifact - CS 340 Databases](https://klockhart99.github.io/ePortfolio/cs340-database)<br/>
 
 ## Professional Self-Assessment
 
-## Preparing For the Future
+### Portfolio Considerations
 
+### Preparing For the Future
+
+<p><a href="https://klockhart99.github.io/ePortfolio/outcomes" title="ePortfolio Outcomes">
+    <img 
+        alt="Static Badge" 
+        src="https://img.shields.io/badge/Link-Outcomes-AA11FF?style=flat&link=https%3A%2F%2Fklockhart99.github.io%2FePortfolio%2Foutcomes"></a></p>
+        
 ## Informal Code Review
 
 <div style="text-align: center;">
