@@ -28,10 +28,11 @@ ___
 
 ## Code Review
 <div style="text-align: center;">
-    <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/yGJngI9px6M?rel=0" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <p><em>Code Review Video</em></p>
+  <p><em>Click below for the code review and it's transcipts</em></p>
+  <p><a href="https://klockhart99.github.io/ePortfolio/code-review" title="ePortfolio Code Review">
+            <img 
+              alt="Static Badge" 
+              src="https://img.shields.io/badge/Link-Code%20Review-FFAA11?style=flat&link=https%3A%2F%2Fklockhart99.github.io%2FePortfolio%2Fcode-review"></a></p>
 </div>
 ___
 
