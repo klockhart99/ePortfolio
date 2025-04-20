@@ -1,4 +1,22 @@
 ## Event Planner / Daily Planner App - Android Mobile Application<br/>CS 360 Mobile Architecture and Programming<br/>Software Design and Engineering Category<br/>Algorithms and Data Structure Category
+<p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Language-JAVA-11FF93?style=flat">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tool-Android%20NStudio-1193FF?style=flat">
+</p>
+<p>    
+    <a href="https://github.com/klockhart99/ePortfolio/tree/main/CS 360 Before Enhancement" title="CS 340 Before"><img 
+              alt="Static Badge"
+              src="https://img.shields.io/badge/Source Code-Before-FF2211?style=flat"></a>
+    <a href="https://github.com/klockhart99/ePortfolio/tree/main/CS 360 After Enhancement" title="CS 340 After"><img 
+              alt="Static Badge"
+              src="https://img.shields.io/badge/Source Code-After-2211FF?style=flat"></a>
+    <a href="https://github.com/klockhart99/ePortfolio/blob/main/Archive/Documents/Lockhart%2C%20Kenneth%20-%20CS%20499%20Milestone%20Two(1).docx" title="CS 340 Narriative"><img 
+              alt="Static Badge"
+              src="https://img.shields.io/badge/Document-First%20Narrative-21DD12?style=flat"></a>
+    <a href="https://github.com/klockhart99/ePortfolio/blob/main/Archive/Documents/Lockhart%2C%20Kenneth%20-%20CS%20499%20Milestone%20Three(1).docx" title="CS 340 Narriative"><img 
+              alt="Static Badge"
+              src="https://img.shields.io/badge/Document-Second%20Narrative-21DD12?style=flat"></a>
+</p>
 
 ## Overview
 In order to understand the effects of this enhancement it is important to look at the before and after of the project. By doing so we can make comparisons between the two to determine if the enhancement achieves its goals or if it still has more work to be done. In this project I focused on two main areas of improvement that being the Software Design and Engineering as well as the Algorithms and Data Structure of the application. The goal of the improvement was to improve the application through these two means to provide a product that actually felt finished.
