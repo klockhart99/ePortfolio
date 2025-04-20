@@ -1,4 +1,20 @@
 ## Salvare Search for Rescue Web Application<br/>CS 340 Client/Server Development<br/>Databases Category
+<p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Language-Python-11FF93?style=flat">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tool-Jupyter%20Notebook-1193FF?style=flat">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Dash-FF9311?style=flat">
+</p>
+<p>    
+    <a href="https://github.com/klockhart99/ePortfolio/tree/main/CS 340 Before Enhancement" title="CS 340 Before"><img 
+              alt="Static Badge"
+              src="https://img.shields.io/badge/Source Code-Before-FF2211?style=flat"></a>
+    <a href="https://github.com/klockhart99/ePortfolio/tree/main/CS 340 After Enhancement" title="CS 340 After"><img 
+              alt="Static Badge"
+              src="https://img.shields.io/badge/Source Code-After-2211FF?style=flat"></a>
+    <a href="https://github.com/klockhart99/ePortfolio/blob/main/Archive/Documents/Lockhart%2C%20Kenneth%20-%20CS%20499%20Milestone%20Four(1).docx" title="CS 340 Narriative"><img 
+              alt="Static Badge"
+              src="https://img.shields.io/badge/Document-Narrative-21DD12?style=flat"></a>
+</p>
 
 ## Overview
 In order to understand the effects of this enhancement it is important to look at the before and after of the project. By doing so we can make comparisons between the two to determine if the enhancement achieves its goals or if it still has more work to be done. In this project I focused on the main area of improvement, that being the Database part of the application specifically in the platform it deployed and its security of its installation. The goal of the improvement was to improve the application by improving access to the database as well as providing a step-by-step process for setting up on multiple platforms securely. 
