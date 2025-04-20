@@ -68,7 +68,7 @@ In all of my artifacts as well as my other project I demonstrate the importance 
 As the future unfolds, I am looking forward to being able to learn and grow. Each one of my projects drives me to complete my work even when faced with difficulties. Mobile development is brand new to me and yet I strived to deliver a difficult improvement. I am looking forward to improving this knowledge and so much more from senior experience, coworkers and great mentors. I strive to participate in a collaborative environment that will facilitate exciting fresh solutions that will help clients and team members deliver product visions with the highest outcome. As a dependable and diligent professional with a great sense of eagerness, organization, and exception desire to learn and advance my skills, I look forward to entering into this new stage of technologies and always improving skillsets.
 
 <div style="text-align: center;">
-<p><em>See click below for more detailed outcomes</em></p>
+<p><em>Click below for more detailed outcomes</em></p>
 <p><a href="https://klockhart99.github.io/ePortfolio/outcomes" title="ePortfolio Outcomes">
     <img 
         alt="Static Badge" 
@@ -92,7 +92,7 @@ Code reviews allow for catching errors, enhancing the teams’ abilities, and im
 Through a code review of my two chosen artifacts, I was able to better understand my projects while addressing flaws and addition to it from a clear state of mind. This helped me to refine those enhancements and to employ strategies to improve the critical elements of the existing code.
 
 <div style="text-align: center;">
-  <p><em>See click below for the code review and it's transcipts</em></p>
+  <p><em>Click below for the code review and it's transcipts</em></p>
   <p><a href="https://klockhart99.github.io/ePortfolio/code-review" title="ePortfolio Code Review">
             <img 
               alt="Static Badge" 
@@ -131,7 +131,7 @@ Likewise, during the code review the product had many features that promote secu
 Additionally, through the use of algorithmic principles and a trade off in design choices I was able to create an algorithm for the daily event viewer which restricted the design to two events show next to each other at the same time in order to keep the speed of the algorithm usable while also keeping the design visually appealing.
 
 <div style="text-align: center;">
-  <p><em>See click below for full narrative</em></p>
+  <p><em>Click below for full narrative</em></p>
   <p><a href="https://klockhart99.github.io/ePortfolio/cs340-database" title="ePortfolio CS 340">
              <img 
                alt="Static Badge" 
@@ -173,7 +173,7 @@ The primary outcome I set out to achieve with this enhancement was to expand the
 However, as the enhancement got underway, I was the opportunity to expand this to include a security mindset that would prevent exploits from accessing the database or design of the project. Such examples include protecting the admin account of the database, limiting permissions of exposed users accounts, and addressing reasons for these concerns. For example, while an account with access to the database would work for the project because it is exposed via the CRUD module it is important to ensure that account only does what is needed of it. 
 
 <div style="text-align: center;">
-  <p><em>See click below for full narrative</em></p>
+  <p><em>Click below for full narrative</em></p>
   <p><a href="https://klockhart99.github.io/ePortfolio/cs340-database" title="ePortfolio CS 340">
              <img 
                alt="Static Badge" 
