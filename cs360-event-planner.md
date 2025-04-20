@@ -1,7 +1,7 @@
 ## Event Planner / Daily Planner App - Android Mobile Application<br/>CS 360 Mobile Architecture and Programming<br/>Software Design and Engineering Category<br/>Algorithms and Data Structure Category
 <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Language-JAVA-11FF93?style=flat">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Tool-Android%20NStudio-1193FF?style=flat">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tool-Android%20Studio-1193FF?style=flat">
 </p>
 <p>    
     <a href="https://github.com/klockhart99/ePortfolio/tree/main/CS 360 Before Enhancement" title="CS 340 Before"><img 
